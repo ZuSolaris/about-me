@@ -8,6 +8,8 @@ It's an about me quiz, meant to push all of my coding skills to the test. But it
 
 ### Resources
 
+Website URL: https://zusolaris.github.io/about-me/
+
 * Music by Yasuhisa Inoue - Glass Substrate via Creative Commons
 *Code for rotation learned from 
   https://flaviocopes.com/rotate-image/
