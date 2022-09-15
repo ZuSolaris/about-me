@@ -58,6 +58,24 @@ div {content:'';
     }
   }
 
-footer{color:white
+ul{color:white;
+  background-color: rgb(255, 0, 0);
+  font-family: Impact;
+  font-size: 20px;
+
+
+
+
+
+}
+
+li {font-family: Impact;
+  list-style:upper-roman;
+  list-style-position: inside;
+  color:white ;
+
+}
+
+footer{color:white;
 
   }
