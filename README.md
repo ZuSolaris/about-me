@@ -17,6 +17,11 @@ Website URL: https://zusolaris.github.io/about-me/
 *Record drawing by Zoe Gonzalez
 *https://upload.wikimedia.org/wikipedia/commons/f/f7/A_hyperbolic_Laguerre_transformation_that_flattens_space.gif
 
+## Lab 4 Credits!
+
+Driver: Chris Johnston Navigator: Zoe Gonzalez
+
 ### Reflections
 
 OMG this took forever. I really wish I could have use functions they make my life easier.
+
